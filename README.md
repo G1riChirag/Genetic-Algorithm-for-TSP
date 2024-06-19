@@ -35,20 +35,13 @@ CityD
 20 25 30 0
 
 # Classes
-* Main
-The main class reads input, initializes the cities object, and runs the genetic algorithm.
-* Cities
-Stores the list of cities and the cost matrix.
-* City
-Represents a single city.
-* Individual
-Represents an individual solution to the TSP.
-* Population
-Repesents a generation of solutions.
-* Crossover
-Defines how individuals "reproduce" to produce a new generation.
-* TSP
-Implements the genetic algorithm for solving the TSP.
+* Main: The main class reads input, initializes the cities object, and runs the genetic algorithm.
+* Cities: Stores the list of cities and the cost matrix.
+* City: Represents a single city.
+* Individual: Represents an individual solution to the TSP.
+* Population: Repesents a generation of solutions.
+* Crossover: Defines how individuals "reproduce" to produce a new generation.
+* TSP: Implements the genetic algorithm for solving the TSP.
 
 # Author
 Chirag Giri
