@@ -24,15 +24,15 @@ The input file should have the following format:
 * The next N lines contain N integers each, representing the cost matrix, where the element at row i and column j represents the travel cost from city i to city j.
 
 # Example
-4
-CityA
-CityB
-CityC
-CityD
-0 10 15 20
-10 0 35 25
-15 35 0 30
-20 25 30 0
+4<br>
+CityA <br>
+CityB <br>
+CityC <br>
+CityD <br>
+0 10 15 20 <br>
+10 0 35 25 <br>
+15 35 0 30 <br>
+20 25 30 0 <br>
 
 # Classes
 * Main: The main class reads input, initializes the cities object, and runs the genetic algorithm.
